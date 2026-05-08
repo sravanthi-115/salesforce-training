@@ -27,26 +27,32 @@ salesforce-training
 └── README.md
 ```
 
-🚀 Learning Goals
+---
+
+# 🚀 Learning Goals
 
 This training focuses on:
 
-Understanding Salesforce ecosystem
-Learning CRM concepts
-Exploring Salesforce development basics
-Practicing real-world business workflows
-Maintaining professional documentation
+- Understanding Salesforce ecosystem
+- Learning CRM concepts
+- Exploring Salesforce development basics
+- Practicing real-world business workflows
+- Maintaining professional documentation
 
-📂 Daily Documentation
+---
+
+# 📂 Daily Documentation
 
 Each day folder contains:
 
-README documentation
-Notes
-Screenshots
-Practice activities
-Module completion evidence
+- README documentation
+- Notes
+- Screenshots
+- Practice activities
+- Module completion evidence
 
-👤 Author
+---
+
+# 👤 Author
 
 Roja Sravanthi Chinta
