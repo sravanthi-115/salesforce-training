@@ -10,6 +10,7 @@ The repository is maintained in a structured week-wise and day-wise format to tr
 
 # 🗂️ Repository Structure
 
+```text
 salesforce-training
 │
 ├── week1/
@@ -34,6 +35,7 @@ Learning CRM concepts
 Exploring Salesforce development basics
 Practicing real-world business workflows
 Maintaining professional documentation
+
 📂 Daily Documentation
 
 Each day folder contains:
@@ -43,6 +45,7 @@ Notes
 Screenshots
 Practice activities
 Module completion evidence
+
 👤 Author
 
 Roja Sravanthi Chinta
