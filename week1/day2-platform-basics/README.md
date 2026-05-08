@@ -112,20 +112,6 @@ Advantages:
 
 ---
 
-# Multi-Tenant Architecture
-
-Salesforce uses multi-tenant architecture.
-
-This means:
-
-- Multiple companies use the same Salesforce infrastructure
-- Each company’s data remains secure and separate
-- Resources are shared efficiently
-
-This makes Salesforce scalable and cost-effective.
-
----
-
 # Real System Design (College Admission System)
 
 ## App Name
@@ -159,20 +145,6 @@ Users can:
 - Monitor application status
 
 Admins manage the system through configuration and permissions.
-
----
-
-# How Developers Extend Salesforce
-
-Developers extend Salesforce using:
-
-- Apex code
-- Lightning Components
-- APIs
-- Custom Objects
-- Automation tools
-
-This allows businesses to customize Salesforce according to their needs.
 
 ---
 
