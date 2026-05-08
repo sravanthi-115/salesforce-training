@@ -14,6 +14,22 @@ It provides:
 
 ---
 
+# Connecting Day 1 and Day 2
+
+CRM concepts fit into Salesforce Platform using Objects and Apps.
+
+Example:
+
+- Account → Stored as Account Object
+- Contact → Stored as Contact Object
+- Opportunity → Stored as Opportunity Object
+
+These objects are grouped together inside apps like the Sales App.
+
+Users interact with records through tabs and user interfaces.
+
+---
+
 # Salesforce Platform Concepts
 
 ## App
@@ -55,22 +71,6 @@ Example:
 - Accounts Tab
 - Contacts Tab
 - Opportunities Tab
-
----
-
-# Connecting Day 1 and Day 2
-
-CRM concepts fit into Salesforce Platform using Objects and Apps.
-
-Example:
-
-- Account → Stored as Account Object
-- Contact → Stored as Contact Object
-- Opportunity → Stored as Opportunity Object
-
-These objects are grouped together inside apps like the Sales App.
-
-Users interact with records through tabs and user interfaces.
 
 ---
 
