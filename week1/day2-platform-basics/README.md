@@ -194,8 +194,4 @@ Learned:
 - Salesforce development basics
 - How CRM fits into Salesforce platform
 
----
 
-# Screenshots
-
-Add Trailhead completion screenshots here.
